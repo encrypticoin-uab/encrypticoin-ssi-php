@@ -1,0 +1,4 @@
+# encrypticoin-ssi-php
+
+## 0.1.0
+- Initial release
